@@ -1,0 +1,1 @@
+G:\pycharm\study_code\LYD_Experience_YOLOX_V5\yolox_gaijin_new\VOCdevkit/VOC2007/JPEGImages/4.jpg 323,170,353,194,1 329,203,346,211,1 372,212,419,231,1

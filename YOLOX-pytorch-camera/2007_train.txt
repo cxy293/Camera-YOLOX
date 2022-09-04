@@ -1,0 +1,4 @@
+G:\pycharm\study_code\LYD_Experience_YOLOX_V5\yolox_gaijin_new\VOCdevkit/VOC2007/JPEGImages/1.jpg 245,136,276,177,1 325,163,366,204,1 272,175,288,196,1
+G:\pycharm\study_code\LYD_Experience_YOLOX_V5\yolox_gaijin_new\VOCdevkit/VOC2007/JPEGImages/2.jpg 338,107,379,137,1 350,147,373,159,1 403,152,445,189,1
+G:\pycharm\study_code\LYD_Experience_YOLOX_V5\yolox_gaijin_new\VOCdevkit/VOC2007/JPEGImages/3.jpg 348,109,378,140,1 401,158,444,188,1 355,149,370,159,1
+G:\pycharm\study_code\LYD_Experience_YOLOX_V5\yolox_gaijin_new\VOCdevkit/VOC2007/JPEGImages/6.jpg 330,165,360,191,1 347,196,366,209,1 395,192,431,214,1
